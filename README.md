@@ -10,6 +10,8 @@ React/TypeScript.
 
 A few smaller things in the repos below.
 
+📫 typischlauch@gmail.com
+
 <!---
 LetsLeek/LetsLeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
